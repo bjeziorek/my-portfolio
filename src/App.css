@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background-color: rgb(5, 26, 44);
+}
+
+header {
+  margin: 2%;
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  margin: 2%;
+  display: flex;
+  justify-content: center;
+  height: 90%;
+}
+
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: center;
+  height: 100%;
+  width: 100%;
+}
+
+.project {
+  height: 50%;
+  width: 30%;
+}
+
+.j-vocab {
+  background-image: url('./j-vocab.jpg');
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+
+.cats {
+  background-image: url('./cats.jpg');
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+
+.the-met {
+  background-image: url('./the-met.jpg');
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+
+.nonogram {
+  background-color: aqua;
+  background-image: url('./nonogram.jpg');
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.labyrinth {
+  background-color: black;
+  background-image: url('./labyrinth.jpg');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.petals {
+  background-image: url('./petals.jpg');
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+.todo {
+  background-image: url('./the-met.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
