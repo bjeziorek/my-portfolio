@@ -11,7 +11,7 @@ export const Projects = () => {
             </a>
             <a href="https://bjeziorek.github.io/NonoReact/" aria-label="link to Nonogram game" className="project nonogram">
             </a>
-            <a href="https://youtu.be/ZY8Fo9dQI38" aria-label="link to trailer of Petals of Faith game on YouTube"  className="project labyrinth">
+            <a href="https://youtu.be/3N3xMPoE7XA" aria-label="link to trailer of Petals of Faith game on YouTube"  className="project labyrinth">
             </a>
             <a href="https://youtu.be/ZY8Fo9dQI38" aria-label="link to video about game Petals of Faith on YouTube" className="project petals">
             </a>
